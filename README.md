@@ -1,10 +1,10 @@
 # scriptlocator
 Return Script's absolut direction path.
 
-#Installation
+## Installation
 python setup.py install
 
-#Quickstart
+## Quickstart
 locator = scriptlocator.Locator()
 scriptpath = locator.getlocation()
 filepath = locator.getfilelocation("EXAMPLE.txt")
