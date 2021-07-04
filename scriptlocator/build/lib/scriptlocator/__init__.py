@@ -1,1 +1,0 @@
-from .scriptlocator import *
