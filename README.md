@@ -1,8 +1,8 @@
 # scriptlocator
-Return Script's absolut direction path.
+Return Script's absolut directory path.
 
 ## Installation
-python setup.py install
+pip install scriptlocator
 
 ## Quickstart
 locator = scriptlocator.Locator()  
